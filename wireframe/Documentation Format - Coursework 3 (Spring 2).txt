@@ -1,0 +1,72 @@
+Required Pages:
+	Home
+	Product (e-commerce webpage for a store that sells various mobiles)
+	Blog
+	Research
+	Contact Us
+
+Tips:
+	Comments are mandatory
+	HTML tags:
+		- table 
+		- div
+		- meta
+		- image 
+		- form
+
+	CSS:
+		- Inline
+		- Internal
+		- External
+
+	JS:
+		- Internal
+		- External 
+	
+Documentation
+	Introduction
+		- Introduction to your project
+		- Goals and objectives
+		- How HTML, CSS and JS was used while developing website
+		- Verdict
+
+Discussion and Analysis
+
+	Selected Text Editor
+		- Use of text editor
+
+	Tool used while developing wireframe
+		- Short explanation about tool used for developing wireframe
+
+	Name of page
+		- Explanation of contents present in the page
+		- Screenshot of Wireframe
+		- Screenshot of Page
+
+Testing (Minimum 5 test cases)
+	- 3 JS testing (Mandatory)
+	- 1 (Nav Hover effect)
+	- 1 (Internal + External Link)
+
+Test 1
+	------------------------------
+	| Objective       |          |
+	-----------------------------|
+	| Action          |          |
+	-----------------------------|
+	| Expected Result |          |
+	-----------------------------|
+	| Actual Result   |          |
+	-----------------------------|
+	| Test            |          |
+	------------------------------
+	Screenshots.
+
+Conclusion
+	- Task that had been carried out in coursework
+	- Research and finding
+
+For submission:
+1. Zip the development and documentation folder. 
+2. Make sure both files have your NAME and ID as filename
+3. Submit both zip file and the pdf(report) file in the RTE classroom.
